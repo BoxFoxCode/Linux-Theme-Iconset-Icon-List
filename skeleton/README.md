@@ -11,7 +11,8 @@
 - **context**`"context": "",`
   - Icon context / context directory name (naming spec.)
 - **application**`"application": { "name": "" },`
-  - Additional information about the application this icon is used for. 
+  - Additional information about the application this icon is used for.
+  - Symlinks required for out of spec icon names used by applications or for duplicate icons with different names.
   - Icon Theme Creator Use
 - **enviroment**`"enviroment": [ { "name": "", "note": "" } ]`
   - Additional enviroment note about the usage in various (desktop) enviroments or window managers. Ex. MATE
