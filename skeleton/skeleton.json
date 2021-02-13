@@ -19,7 +19,11 @@
   },
   "context": "",
   "application": {
-    "name": ""
+    "name": "",
+    "symlinks" : [
+      "OutOfSpecIconName",
+      "DuplicateIconWithDifferentName"
+    ]
   },
   "enviroment": [
     {
